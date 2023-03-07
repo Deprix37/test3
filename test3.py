@@ -2,4 +2,4 @@ print("hello")
 
 
 
-print('selam')
+print('vazgeçtim')
